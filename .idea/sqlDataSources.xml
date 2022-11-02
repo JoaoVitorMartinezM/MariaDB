@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="1d633214-38d7-4371-8578-788e94f09d70" name="DDL data source Mapping">
+      <data-sources db="616c8a0c-0e3e-4417-be88-3123578f4a50" ddl="d1409867-09d0-4ab2-bd52-ec102842b202" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d1409867-09d0-4ab2-bd52-ec102842b202" />
+          <option name="name" value="DDL data source" />
+          <option name="languageId" value="GenericSQL" />
+          <option name="urls">
+            <array />
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
